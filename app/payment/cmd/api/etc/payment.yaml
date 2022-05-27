@@ -1,6 +1,6 @@
 Name: payment-api
 Host: 0.0.0.0
-Port: 1002
+Port: 3002
 Mode: dev
 
 #jwtAuth
