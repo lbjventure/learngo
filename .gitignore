@@ -15,5 +15,10 @@ data/*
 #vscode
 .vscode
 .vscode/
+doc
+modd.conf
+README-devport.md
+README-cn.md
+README.md
 
 
